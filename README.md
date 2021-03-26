@@ -2,6 +2,10 @@
 
 Visit: https://wilianselzlein.github.io/
 
+:trophy: TOP 30 MercadoLivre Data Challenge 2019
+
+:trophy: TOP 10 AI4D Malawi News Classification Challenge 
+
 <p align="center"> 
  <img src="https://profile-counter.glitch.me/wilianselzlein/count.svg"/>
 </p>
@@ -27,4 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://gist.github.com/rxaviers/7360908
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
 -->
